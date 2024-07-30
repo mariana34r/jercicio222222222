@@ -25,7 +25,7 @@ def edit_citi():
                 gg.guarda_ciudades(data)
                 break
             elif op == 4:
-                print("Saliendo...")
+                print("Saliendo....")
                 break
             
         else:
