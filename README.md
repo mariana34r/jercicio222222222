@@ -8,6 +8,7 @@ Este programa permite al ususario buscar agrgar mostrar y editar cuidades ingres
 |--|--|
 | 1. | [Descripción](#Descripcion) |
 | 2. | [Funcionalidades](#Funcionalidades) |
+| 4. | [Captura de la pagina](#capturas) |
 | 4. | [Tecnologías Utilizadas](#Tenologia_Usada) |
 | 5. | [Autores](#Autores) |
 
