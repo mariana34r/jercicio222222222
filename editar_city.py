@@ -31,6 +31,5 @@ def edit_citi():
         else:
             print("No hay ninguna ciudad con este codigo postal regitrela")
 
-edit_citi()
         
     
