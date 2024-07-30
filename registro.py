@@ -12,4 +12,3 @@ def regis_citi():
         datos["Poblacion"] = int(input("Digite la poblacion de la ciudad: "))
         data["ciudades"][cd_postal] = datos
         gg.guarda_ciudades(data)
-regis_citi()
