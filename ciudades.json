@@ -1,0 +1,14 @@
+{
+    "ciudades": {
+        "105": {
+            "Nombre": "Medellin",
+            "Pais": "COlombia",
+            "Poblacion": 15151
+        },
+        "102": {
+            "Nombre": "CAracas",
+            "Pais": "Venecolanos",
+            "Poblacion": 566
+        }
+    }
+}

@@ -16,5 +16,5 @@ def cargar_ciudades():
     except FileNotFoundError:
         print("Error al guardar datos")
         print("**************************************************")
-        return {"Rutas" : {}}
+        return {"ciudades" : {}}
     
