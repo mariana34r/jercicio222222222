@@ -32,4 +32,6 @@ while True:
         
         print(f"Se ha producido un error: {e}")
         print("HOLA MUNDO..")
-        
+
+
+print("me lo filtraron")
